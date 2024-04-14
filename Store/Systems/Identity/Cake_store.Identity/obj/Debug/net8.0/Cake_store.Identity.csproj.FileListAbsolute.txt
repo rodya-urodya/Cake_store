@@ -105,3 +105,4 @@ C:\Users\padik\Cake_store\Store\Systems\Identity\Cake_store.Identity\obj\Debug\n
 C:\Users\padik\Cake_store\Store\Systems\Identity\Cake_store.Identity\obj\Debug\net8.0\ref\Cake_store.Identity.dll
 C:\Users\padik\Cake_store\Store\Systems\Identity\Cake_store.Identity\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\padik\Cake_store\Store\Systems\Identity\Cake_store.Identity\bin\Debug\net8.0\keys\is-signing-key-18F710204FE66CB3CBB1C84053E75A8C.json
+C:\Users\padik\Cake_store\Store\Systems\Identity\Cake_store.Identity\obj\Debug\net8.0\Cake_store.Identity.sourcelink.json

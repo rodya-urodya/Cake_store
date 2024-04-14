@@ -18,6 +18,16 @@ services:
       - cake_store_postgresql
       - cake_store_rabbitmq
 
+  dsrcake_store_identity:
+    image: ${DOCKER_REGISTRY-}cake_storeidentity
+    build:
+      context: .
+      dockerfile: Systems/Identity/Cake_store.Identity/Dockerfile
+    depends_on:
+      - cake_store_postgresql
+      - cake_store_api
+
+
   dsrcake_store_worker_1:
     image: ${DOCKER_REGISTRY-}cake_storeworker
     build:

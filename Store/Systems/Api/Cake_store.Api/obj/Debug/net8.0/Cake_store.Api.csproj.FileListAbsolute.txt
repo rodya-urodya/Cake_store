@@ -205,3 +205,4 @@ C:\Users\padik\Cake_store\Store\Systems\Api\Cake_store.Api\bin\Debug\net8.0\Iden
 C:\Users\padik\Cake_store\Store\Systems\Api\Cake_store.Api\bin\Debug\net8.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
 C:\Users\padik\Cake_store\Store\Systems\Api\Cake_store.Api\bin\Debug\net8.0\IdentityServer4.AccessTokenValidation.dll
 C:\Users\padik\Cake_store\Store\Systems\Api\Cake_store.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\padik\Cake_store\Store\Systems\Api\Cake_store.Api\obj\Debug\net8.0\Cake_store.Api.sourcelink.json
