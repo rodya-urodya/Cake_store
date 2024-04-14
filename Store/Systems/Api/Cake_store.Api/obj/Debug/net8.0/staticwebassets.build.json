@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "V337THQw8Y9CAJaq5Z57ohvkCEfZ66ds3vdnk15eeL4=",
+  "Source": "Cake_store.Api",
+  "BasePath": "_content/Cake_store.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\padik\\Cake_store\\Store\\Systems\\Api\\Cake_store.Api\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Cake_store.Api.styles.css",
+      "SourceId": "Cake_store.Api",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\padik\\Cake_store\\Store\\Systems\\Api\\Cake_store.Api\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Cake_store.Api",
+      "RelativePath": "Cake_store.Api.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\padik\\Cake_store\\Store\\Systems\\Api\\Cake_store.Api\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Cake_store.Api.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\padik\\Cake_store\\Store\\Systems\\Api\\Cake_store.Api\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Cake_store.Api.bundle.scp.css",
+      "SourceId": "Cake_store.Api",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\padik\\Cake_store\\Store\\Systems\\Api\\Cake_store.Api\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Cake_store.Api",
+      "RelativePath": "Cake_store.Api.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\padik\\Cake_store\\Store\\Systems\\Api\\Cake_store.Api\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Cake_store.Api.bundle.scp.css"
+    }
+  ]
+}

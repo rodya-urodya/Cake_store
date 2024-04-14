@@ -1,0 +1,15 @@
+C:\Users\padik\Cake_store\Store\Services\Cake_store.Services.RabbitMq\obj\Debug\net8.0\Cake_store.Services.RabbitMq.csproj.AssemblyReference.cache
+C:\Users\padik\Cake_store\Store\Services\Cake_store.Services.RabbitMq\obj\Debug\net8.0\Cake_store.Services.RabbitMq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padik\Cake_store\Store\Services\Cake_store.Services.RabbitMq\obj\Debug\net8.0\Cake_store.Services.RabbitMq.AssemblyInfoInputs.cache
+C:\Users\padik\Cake_store\Store\Services\Cake_store.Services.RabbitMq\obj\Debug\net8.0\Cake_store.Services.RabbitMq.AssemblyInfo.cs
+C:\Users\padik\Cake_store\Store\Services\Cake_store.Services.RabbitMq\obj\Debug\net8.0\Cake_store.Services.RabbitMq.csproj.CoreCompileInputs.cache
+C:\Users\padik\Cake_store\Store\Services\Cake_store.Services.RabbitMq\bin\Debug\net8.0\Cake_store.Services.RabbitMq.deps.json
+C:\Users\padik\Cake_store\Store\Services\Cake_store.Services.RabbitMq\bin\Debug\net8.0\Cake_store.Services.RabbitMq.dll
+C:\Users\padik\Cake_store\Store\Services\Cake_store.Services.RabbitMq\bin\Debug\net8.0\Cake_store.Services.RabbitMq.pdb
+C:\Users\padik\Cake_store\Store\Services\Cake_store.Services.RabbitMq\bin\Debug\net8.0\Cake_store.Common.dll
+C:\Users\padik\Cake_store\Store\Services\Cake_store.Services.RabbitMq\bin\Debug\net8.0\Cake_store.Common.pdb
+C:\Users\padik\Cake_store\Store\Services\Cake_store.Services.RabbitMq\obj\Debug\net8.0\Cake_store.Services.RabbitMq.csproj.CopyComplete
+C:\Users\padik\Cake_store\Store\Services\Cake_store.Services.RabbitMq\obj\Debug\net8.0\Cake_store.Services.RabbitMq.dll
+C:\Users\padik\Cake_store\Store\Services\Cake_store.Services.RabbitMq\obj\Debug\net8.0\refint\Cake_store.Services.RabbitMq.dll
+C:\Users\padik\Cake_store\Store\Services\Cake_store.Services.RabbitMq\obj\Debug\net8.0\Cake_store.Services.RabbitMq.pdb
+C:\Users\padik\Cake_store\Store\Services\Cake_store.Services.RabbitMq\obj\Debug\net8.0\ref\Cake_store.Services.RabbitMq.dll

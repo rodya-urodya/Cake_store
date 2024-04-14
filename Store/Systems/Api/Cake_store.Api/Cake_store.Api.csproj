@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..\..</DockerfileContext>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="Asp.Versioning.Mvc.ApiExplorer" Version="7.1.0" />
+	  <PackageReference Include="IdentityServer4.AccessTokenValidation" Version="3.0.1" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.3">
+	    <PrivateAssets>all</PrivateAssets>
+	    <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	  </PackageReference>
+	  <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.5" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Serilog" Version="3.1.1" />
+    <PackageReference Include="Serilog.Enrichers.CorrelationId" Version="3.0.1" />
+	  <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+	  <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.5.0" />
+	  <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="7.0.12" />
+	  <PackageReference Include="Swashbuckle.AspNetCore.Newtonsoft" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Configuration\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Data\Cake_store.Context.Seeder\Cake_store.Context.Seeder.csproj" />
+    <ProjectReference Include="..\..\..\Data\NetSchool.Context.Migrations\CakeStore.Context.Migrations.PgSql\CakeStore.Context.Migrations.PgSql.csproj" />
+    <ProjectReference Include="..\..\..\Data\NetSchool.Context\Cake_store.Context.csproj" />
+    <ProjectReference Include="..\..\..\Services\Cake_store.Services.Actions\Cake_store.Services.Actions.csproj" />
+    <ProjectReference Include="..\..\..\Services\Cake_store.Services.Logger\Cake_store.Services.Logger.csproj" />
+    <ProjectReference Include="..\..\..\Services\Cake_store.Services.Products\Cake_store.Srevices.Products\Cake_store.Srevices.Products.csproj" />
+    <ProjectReference Include="..\..\..\Services\Cake_store.Services.RabbitMq\Cake_store.Services.RabbitMq.csproj" />
+    <ProjectReference Include="..\..\..\Services\Cake_store.Services.Settings\Cake_store.Services.Settings.csproj" />
+    <ProjectReference Include="..\..\..\Services\Cake_store.Services.UserAccount\Cake_store.Services.UserAccount.csproj" />
+    <ProjectReference Include="..\..\..\Shared\Cake_store.Common\Cake_store.Common.csproj" />
+    <ProjectReference Include="..\Cake_store.Api.Settings\Cake_store.Api.Settings.csproj" />
+  </ItemGroup>
+
+</Project>

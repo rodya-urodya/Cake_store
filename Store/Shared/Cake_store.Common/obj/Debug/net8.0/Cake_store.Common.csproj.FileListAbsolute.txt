@@ -1,0 +1,12 @@
+C:\Users\padik\Cake_store\Store\Shared\Cake_store.Common\obj\Debug\net8.0\Cake_store.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padik\Cake_store\Store\Shared\Cake_store.Common\obj\Debug\net8.0\Cake_store.Common.AssemblyInfoInputs.cache
+C:\Users\padik\Cake_store\Store\Shared\Cake_store.Common\obj\Debug\net8.0\Cake_store.Common.AssemblyInfo.cs
+C:\Users\padik\Cake_store\Store\Shared\Cake_store.Common\obj\Debug\net8.0\Cake_store.Common.csproj.CoreCompileInputs.cache
+C:\Users\padik\Cake_store\Store\Shared\Cake_store.Common\obj\Debug\net8.0\Cake_store.Common.csproj.AssemblyReference.cache
+C:\Users\padik\Cake_store\Store\Shared\Cake_store.Common\bin\Debug\net8.0\Cake_store.Common.deps.json
+C:\Users\padik\Cake_store\Store\Shared\Cake_store.Common\bin\Debug\net8.0\Cake_store.Common.dll
+C:\Users\padik\Cake_store\Store\Shared\Cake_store.Common\bin\Debug\net8.0\Cake_store.Common.pdb
+C:\Users\padik\Cake_store\Store\Shared\Cake_store.Common\obj\Debug\net8.0\Cake_store.Common.dll
+C:\Users\padik\Cake_store\Store\Shared\Cake_store.Common\obj\Debug\net8.0\refint\Cake_store.Common.dll
+C:\Users\padik\Cake_store\Store\Shared\Cake_store.Common\obj\Debug\net8.0\Cake_store.Common.pdb
+C:\Users\padik\Cake_store\Store\Shared\Cake_store.Common\obj\Debug\net8.0\ref\Cake_store.Common.dll

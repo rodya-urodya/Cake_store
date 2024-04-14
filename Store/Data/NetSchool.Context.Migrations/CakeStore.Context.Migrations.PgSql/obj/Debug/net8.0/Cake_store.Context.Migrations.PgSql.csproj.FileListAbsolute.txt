@@ -1,0 +1,5 @@
+C:\Users\padik\Cake_store\Store\Data\NetSchool.Context.Migrations\Cake_store.Context.Migrations.PgSql\obj\Debug\net8.0\Cake_store.Context.Migrations.PgSql.csproj.AssemblyReference.cache
+C:\Users\padik\Cake_store\Store\Data\NetSchool.Context.Migrations\Cake_store.Context.Migrations.PgSql\obj\Debug\net8.0\Cake_store.Context.Migrations.PgSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padik\Cake_store\Store\Data\NetSchool.Context.Migrations\Cake_store.Context.Migrations.PgSql\obj\Debug\net8.0\Cake_store.Context.Migrations.PgSql.AssemblyInfoInputs.cache
+C:\Users\padik\Cake_store\Store\Data\NetSchool.Context.Migrations\Cake_store.Context.Migrations.PgSql\obj\Debug\net8.0\Cake_store.Context.Migrations.PgSql.AssemblyInfo.cs
+C:\Users\padik\Cake_store\Store\Data\NetSchool.Context.Migrations\Cake_store.Context.Migrations.PgSql\obj\Debug\net8.0\Cake_store.Context.Migrations.PgSql.csproj.CoreCompileInputs.cache

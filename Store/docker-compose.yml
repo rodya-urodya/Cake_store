@@ -1,0 +1,39 @@
+
+version: '3.4'
+
+services:
+
+  cake_store_postgresql:
+    image: postgres:14.1
+    
+  cake_store_rabbitmq:
+    image: rabbitmq:management
+            
+  cake_store_api:
+    image: ${DOCKER_REGISTRY-}cake_storeapi
+    build:
+      context: .
+      dockerfile: Systems\Api\Cake_store.Api\Dockerfile
+    depends_on:
+      - cake_store_postgresql
+      - cake_store_rabbitmq
+
+  dsrcake_store_worker_1:
+    image: ${DOCKER_REGISTRY-}cake_storeworker
+    build:
+      context: .
+      dockerfile: Systems\Worker\Cake_store.Worker\Dockerfile
+    depends_on:
+      - cake_store_postgresql
+      - cake_store_rabbitmq
+      - cake_store_api
+
+  dsrcake_store_worker_2:
+    image: ${DOCKER_REGISTRY-}cake_storeworker
+    build:
+      context: .
+      dockerfile: Systems\Worker\Cake_store.Worker\Dockerfile
+    depends_on:
+      - cake_store_postgresql
+      - cake_store_rabbitmq
+      - cake_store_api 

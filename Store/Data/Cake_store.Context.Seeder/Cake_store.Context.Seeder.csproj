@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="8.0.0" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Services\Cake_store.Services.UserAccount\Cake_store.Services.UserAccount.csproj" />
+      <ProjectReference Include="..\..\Shared\Cake_store.Common\Cake_store.Common.csproj" />
+      <ProjectReference Include="..\Cake_store.Context.Entities\Cake_store.Context.Entities.csproj" />
+      <ProjectReference Include="..\NetSchool.Context\Cake_store.Context.csproj" />
+    </ItemGroup>
+
+</Project>

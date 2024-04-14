@@ -1,0 +1,5 @@
+C:\Users\padik\Cake_store\Store\Data\NetSchool.Context.Entities\obj\Debug\net8.0\NetSchool.Context.Entities.csproj.AssemblyReference.cache
+C:\Users\padik\Cake_store\Store\Data\NetSchool.Context.Entities\obj\Debug\net8.0\NetSchool.Context.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padik\Cake_store\Store\Data\NetSchool.Context.Entities\obj\Debug\net8.0\NetSchool.Context.Entities.AssemblyInfoInputs.cache
+C:\Users\padik\Cake_store\Store\Data\NetSchool.Context.Entities\obj\Debug\net8.0\NetSchool.Context.Entities.AssemblyInfo.cs
+C:\Users\padik\Cake_store\Store\Data\NetSchool.Context.Entities\obj\Debug\net8.0\NetSchool.Context.Entities.csproj.CoreCompileInputs.cache

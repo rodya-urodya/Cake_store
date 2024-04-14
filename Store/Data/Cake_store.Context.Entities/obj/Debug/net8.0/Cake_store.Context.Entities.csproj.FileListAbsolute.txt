@@ -1,0 +1,12 @@
+C:\Users\padik\Cake_store\Store\Data\Cake_store.Context.Entities\bin\Debug\net8.0\Cake_store.Context.Entities.deps.json
+C:\Users\padik\Cake_store\Store\Data\Cake_store.Context.Entities\bin\Debug\net8.0\Cake_store.Context.Entities.dll
+C:\Users\padik\Cake_store\Store\Data\Cake_store.Context.Entities\bin\Debug\net8.0\Cake_store.Context.Entities.pdb
+C:\Users\padik\Cake_store\Store\Data\Cake_store.Context.Entities\obj\Debug\net8.0\Cake_store.Context.Entities.csproj.AssemblyReference.cache
+C:\Users\padik\Cake_store\Store\Data\Cake_store.Context.Entities\obj\Debug\net8.0\Cake_store.Context.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padik\Cake_store\Store\Data\Cake_store.Context.Entities\obj\Debug\net8.0\Cake_store.Context.Entities.AssemblyInfoInputs.cache
+C:\Users\padik\Cake_store\Store\Data\Cake_store.Context.Entities\obj\Debug\net8.0\Cake_store.Context.Entities.AssemblyInfo.cs
+C:\Users\padik\Cake_store\Store\Data\Cake_store.Context.Entities\obj\Debug\net8.0\Cake_store.Context.Entities.csproj.CoreCompileInputs.cache
+C:\Users\padik\Cake_store\Store\Data\Cake_store.Context.Entities\obj\Debug\net8.0\Cake_store.Context.Entities.dll
+C:\Users\padik\Cake_store\Store\Data\Cake_store.Context.Entities\obj\Debug\net8.0\refint\Cake_store.Context.Entities.dll
+C:\Users\padik\Cake_store\Store\Data\Cake_store.Context.Entities\obj\Debug\net8.0\Cake_store.Context.Entities.pdb
+C:\Users\padik\Cake_store\Store\Data\Cake_store.Context.Entities\obj\Debug\net8.0\ref\Cake_store.Context.Entities.dll

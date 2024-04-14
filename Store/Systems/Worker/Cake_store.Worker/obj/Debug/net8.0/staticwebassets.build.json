@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WH3Vcj1NCtRhxuiXYqW8QM0h7WVqbbKFipAcqC32LNc=",
+  "Source": "Cake_store.Worker",
+  "BasePath": "_content/Cake_store.Worker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

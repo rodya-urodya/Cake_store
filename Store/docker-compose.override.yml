@@ -1,0 +1,55 @@
+version: '3.4'
+
+services:
+  cake_store_postgresql:
+    environment:
+      - POSTGRES_NAME=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=Passw0rd
+    ports:
+      - "45432:5432"
+    networks:
+      - shared_cake_store_net
+    volumes:      
+      - ~/.docker-conf/postgresql/data/:/var/lib/postgresql/data
+
+  cake_store_rabbitmq:
+    ports:
+      - "5672:5672"
+      - "5673:5673"
+      - "15672:15672" 
+    networks:
+      - shared_cake_store_net
+    volumes:      
+      - ./rabbitmq:/var/lib/rabbitmq
+    
+
+  cake_store_api:
+    ports:
+      - "10000:8080"
+    networks:
+      - shared_cake_store_net
+    env_file:
+      - env.api
+
+  dsrcake_store_worker_1:
+    networks:
+      - shared_cake_store_net
+    ports:
+      - "10001:8080"
+    env_file:
+      - env.worker
+
+  dsrcake_store_worker_2:
+    networks:
+      - shared_cake_store_net
+    ports:
+      - "10002:8080"
+    env_file:
+      - env.worker
+
+
+networks:
+  shared_cake_store_net:
+    name: cake_store
+    driver: bridge
